@@ -1,0 +1,12 @@
+{
+  "name"          : "easeljs",
+  "description"   : "The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.",
+  "url"           : "http://createjs.com/",
+  "main"          : "lib/easeljs-0.7.1.combined.js",
+  "version"       : "0.7.1",
+  "license"       : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CreateJS/EaselJS.git"
+  }
+}
